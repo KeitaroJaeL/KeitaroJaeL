@@ -110,6 +110,31 @@
 
 ---
 
+### 🏅 Certifications
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+    </td>
+    <td>
+      <b>Legacy Responsive Web Design</b> — May 2026<br/>
+      <a href="https://freecodecamp.org/certification/jaelcaridcode/responsive-web-design">View credential ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
+    </td>
+    <td>
+      <b>Front-End Development Libraries</b> — May 2026<br/>
+      <a href="https://freecodecamp.org/certification/jaelcaridcode/front-end-development-libraries">View credential ↗</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
